@@ -22,3 +22,4 @@
     "vite": "^5.4.10"
   }
 }
+fix: add vite react plugin for build
